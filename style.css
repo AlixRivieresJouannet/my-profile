@@ -1,0 +1,52 @@
+h1 {
+	text-align: center;
+	color: rgb(140, 179, 105);
+	font-family: 'Rampart One', cursive;
+	font-family: 800;
+	letter-spacing: 10px;
+	font-size: 32px;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: 'Rampart One', cursive;
+}
+
+body {
+
+	background-color: rgb(140, 179, 105);
+	color: rgb(140, 179, 105);
+	display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.carte {
+	background-color: white;
+	width: 600px;
+	border-width: 1px;
+	padding: 40px;
+	border-radius: 6px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 1.0);
+	margin: 20px 0px;
+	text-align: center;
+}
+
+#alix {
+	border-radius: 50%;
+	width: 150px;
+	padding: 15px 20px;
+}
+
+.presentation {
+	width: 500px;
+	text-align: center;
+	margin: 80px 0px;
+	padding: 0px 24px;
+}
+
+.pro{
+	display: flex;
+}
